@@ -1,0 +1,10 @@
+{
+  "name": "タンク加工計算",
+  "short_name": "タンク計算",
+  "description": "胴部展開・コニカル展開・鏡板ノズル位置計算",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f6feb",
+  "orientation": "portrait"
+}
